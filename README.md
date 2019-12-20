@@ -1,0 +1,2 @@
+# Harmonizing-Industry-and-Computer-Science-Department
+Developed a web-based chat application for the industry and computer science department. this application is used for receiving feedbacks from the industry to the computer science department. The industry can make suggestions, share their needs and share information and recent findings, the computer science department can receive feedbacks from the industry and reflect in the curriculum
